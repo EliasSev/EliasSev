@@ -1,4 +1,4 @@
-Hi, I’m @EliasSev, a data science student at Norways University of Life Science (NMBU)
+Hi, I’m @EliasSev, a data science student at the Norwegian University of Life Sciences (NMBU).
 
 I like to play around in Python, and do small projects for fun.
 
